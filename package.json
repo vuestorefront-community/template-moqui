@@ -1,6 +1,6 @@
 {
   "name": "@vue-storefront/moqui-theme",
-  "version": "0.9.1",
+  "version": "0.9.6",
   "engines": {
     "node": ">=14.17.x"
   },
@@ -24,7 +24,7 @@
     "@storefront-ui/vue": "0.11.4",
     "@vue/composition-api": "1.4.9",
     "@nuxtjs/composition-api": "0.29.3",
-    "@vue-storefront/moqui": "0.9.1",
+    "@vue-storefront/moqui": "0.9.6",
     "@vue-storefront/core": "2.5.11",
     "@vue-storefront/middleware": "2.5.7",
     "@vue-storefront/nuxt": "2.5.11",
